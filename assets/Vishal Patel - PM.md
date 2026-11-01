@@ -67,6 +67,9 @@ Vishal Patel
 ### Personal Projects (August 2022-Present)
   Roles: Software Develper
   Notable Projects:
+    Social Activities - an event list creation and sharing app for people who live in San Diego (https://github.com/vishaldpatel/socialactivities)
+    omarchy-pass - an Omarchy plugin for the Pass password manager (https://github.com/vishaldpatel/omarchy-pass)
+    Hardware projects - a couple of hardware projects currently in progress
     Surfers Of North County - a YouTube Channel featuring surfing in North County San Diego.
     AiJake - a fully automated news summarizer and podcast episode creator (Python, FastAPI, SQLite)
     SurfClipz - take raw surf footage and automatically edit it for review and viewing pleasure (Python, FastAI, Ffmpeg)

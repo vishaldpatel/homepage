@@ -6,7 +6,7 @@ I'm a full-stack software engineer and technical project manager living in Carls
 
 I've spent my career taking software from idea to production. Over the years, I've co-founded several businesses, often two-sided marketplaces, in areas like market research and classic cars, among others. I freelanced for companies like GoPro, Stubhub's ZVents and Dot429, and was a tech lead at the Public Library of Science. As a technical project and product manager at Riviera Partners, I helped redesign and rebuild the whole system. In between, I co-founded NorCal Microgreens and ran a farm-to-table microgreens business.
 
-These days I build my own things: [OkNext.io](https://oknext.io), an opinionated task and project management app built with Elixir and Phoenix; AiJake, a fully automated news summarizer and podcast creator; and SurfClipz, which turns raw surf footage into edited clips.
+These days I build my own things. I'm currently working on [Social Activities](https://github.com/vishaldpatel/socialactivities), an app for creating and sharing event lists for people who live in San Diego. I recently made [omarchy-pass](https://github.com/vishaldpatel/omarchy-pass), an Omarchy plugin for the Pass password manager. I also have a couple of hardware projects underway, which I hope to talk about soon.
 
 When I'm not at a keyboard, I'm in the water. I run [Surfers of North County](https://www.youtube.com/@soncsd), a YouTube channel featuring surfing in North County San Diego.
 
