@@ -1,12 +1,5 @@
----
-title: "How to Delay slow operations until the second render in Phoenix LiveView"
-date: 2025-01-25T06:31:09Z
-updated: 2025-01-26T21:52:36Z
-slug: phoenix-liveview-delay-slow-operations-until-the-second-load
-published: true
----
-
 # How to Delay slow operations until the second render in Phoenix LiveView
+## Published: 2025-01-25
 
 ## Update 2
 

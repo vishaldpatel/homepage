@@ -1,12 +1,5 @@
----
-title: "The Banana iced mocha - my go to #WFH summer drink for working from patio."
-date: 2026-08-06T21:16:13Z
-updated: 2026-08-06T21:45:40Z
-slug: the-perfect-summer-coffee-drink
-published: true
----
-
 # The Banana iced mocha - my go to #WFH summer drink for working from patio.
+## Published: 2026-08-06
 
 **I just perfected the cold mocha.** An easy to make, creamy, refreshing, nutritious (and vegan!) summer drink.
 

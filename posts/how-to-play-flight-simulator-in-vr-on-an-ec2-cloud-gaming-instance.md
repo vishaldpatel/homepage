@@ -1,12 +1,5 @@
----
-title: "How to play Flight Simulator in VR on an EC2 Cloud gaming instance"
-date: 2026-03-24T19:30:43Z
-updated: 2026-04-30T20:34:17Z
-slug: how-to-play-flight-simulator-in-vr-on-an-ec2-cloud-gaming-instance
-published: true
----
-
 # How to play Flight Simulator in VR on an EC2 Cloud gaming instance
+## Published: 2026-03-24
 
 ## 3rd Update
 

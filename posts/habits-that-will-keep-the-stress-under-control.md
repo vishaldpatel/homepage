@@ -1,12 +1,5 @@
----
-title: "A few tips from the (startup) trenches for managing stress"
-date: 2026-07-16T01:17:57Z
-updated: 2026-07-16T01:52:32Z
-slug: habits-that-will-keep-the-stress-under-control
-published: true
----
-
 # A few tips from the (startup) trenches for managing stress
+## Published: 2026-07-16
 
 A while back I co-founded a company that raised some money.
 We worked long hours, 6 days per week from a wonderful office, leaving Sundays to take care of personal things. After a few weeks, a few things became apparent:

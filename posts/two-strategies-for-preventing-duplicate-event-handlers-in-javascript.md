@@ -1,12 +1,5 @@
----
-title: "Two strategies for preventing duplicate event handlers in JavaScript"
-date: 2024-12-02T20:18:27Z
-updated: 2025-09-24T22:12:59Z
-slug: two-strategies-for-preventing-duplicate-event-handlers-in-javascript
-published: true
----
-
 # Two strategies for preventing duplicate event handlers in JavaScript
+## Published: 2024-12-02
 
 It turns out that (as of November, 2024), there are three available methods for managing events in JavaScript:
 

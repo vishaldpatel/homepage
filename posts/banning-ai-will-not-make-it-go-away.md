@@ -1,12 +1,5 @@
----
-title: "Banning AI will not make it go away."
-date: 2026-07-28T22:26:11Z
-updated: 2026-07-28T22:26:11Z
-slug: banning-ai-will-not-make-it-go-away
-published: false
----
-
 # Banning AI will not make it go away.
+## Published: 2026-07-28
 
 A 16 year old lifeguard in Santa Cruz rescued a boy from drowning in large breaking waves close to the beach.
 The same swell, affecting San Diego County has resulted in hundreds of rescues.

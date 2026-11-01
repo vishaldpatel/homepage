@@ -1,12 +1,5 @@
----
-title: "From Dev to Production for a small Phoenix project"
-date: 2024-10-28T01:04:51Z
-updated: 2025-01-19T06:57:21Z
-slug: how-i-deployed-a-small-phoenix-website-to-production
-published: true
----
-
 # From Dev to Production for a small Phoenix project
+## Published: 2024-10-28
 
 I followed the following steps to deploy this website to production.
 

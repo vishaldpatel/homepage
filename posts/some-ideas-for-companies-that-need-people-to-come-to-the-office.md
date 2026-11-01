@@ -1,12 +1,5 @@
----
-title: "Some ideas for companies that need people to come to the office"
-date: 2026-03-19T15:46:10Z
-updated: 2026-03-21T20:34:29Z
-slug: some-ideas-for-companies-that-need-people-to-come-to-the-office
-published: true
----
-
 # Some ideas for companies that need people to come to the office
+## Published: 2026-03-19
 
 Most companies that allow work from home provide a generous stipend to help people create an ideal home office.
 

@@ -1,12 +1,5 @@
----
-title: "No one understands Points, and most don't care! (oknext.io)"
-date: 2025-03-26T20:37:20Z
-updated: 2025-09-24T22:29:38Z
-slug: oknextio-no-one-understands-points-and-most-dont-care
-published: true
----
-
 # No one understands Points, and most don't care! (oknext.io)
+## Published: 2025-03-26
 
 Certainly not the C-Suite. Or the designers. Or the sales team. Or marketing. The product team just wants to know if it'll be easy and how long it'll take. Most engineers definitely don't!
 

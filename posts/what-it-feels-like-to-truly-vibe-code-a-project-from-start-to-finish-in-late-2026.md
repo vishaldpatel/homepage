@@ -1,12 +1,5 @@
----
-title: "What it feels like to truly vibe code a project from start to finish (in late 2026)"
-date: 2026-09-28T06:11:58Z
-updated: 2026-09-28T06:11:58Z
-slug: what-it-feels-like-to-truly-vibe-code-a-project-from-start-to-finish-in-late-2026
-published: true
----
-
 # What it feels like to truly vibe code a project from start to finish (in late 2026)
+## Published: 2026-09-28
 
 I have a background in full-stack software development, project management, and even some product management. I know how to take software ideas from idea all the way to production.
 
